@@ -1,0 +1,29 @@
+.header {
+    /* The image used */
+    background-image: url(../static/header-1.png);
+    opacity: 0.9;
+    /* Full height */
+    height: 640px; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar{
+  border: none;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: 'Verdana';
+  font-color: white;
+}
+
+.navbar-brand {
+  border: none;
+  font-weight: normal;
+  font-size: 40px;
+  font-family: 'Verdana';
+  font-color: white;
+}
+
